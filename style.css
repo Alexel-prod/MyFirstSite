@@ -1,0 +1,15 @@
+html {
+    background: dimgrey;
+}
+.FirstBlock{
+background-color: darkmagenta; 
+width:100%;
+height: 700px;   
+}
+.Text__FirstBlock{
+    text-align: center;
+    color:#fff;
+    font-size:40px;
+    padding-top: 100px;
+    
+}
